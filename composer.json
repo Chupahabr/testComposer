@@ -1,0 +1,12 @@
+{
+  "name": "onpeak/logger",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Onpeak\\Logger": "classes"
+    }
+  }
+}
