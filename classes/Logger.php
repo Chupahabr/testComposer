@@ -1,6 +1,6 @@
 <?php
 
-namespace Onpeak;
+namespace OnpeakComposerTest;
 
 class Logger
 {
